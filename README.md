@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+## I'm currently learning Python and studying data analysis.
+## I major Political Science and International Relationship, so I want to use this knowledge for data analysis.
+## How to contact me:
+*e-mail: 6279cca@gmail.com or 6279cca@naver.com
 <!--
 **6279cca-beep/6279cca-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
