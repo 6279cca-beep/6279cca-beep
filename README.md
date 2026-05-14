@@ -1,9 +1,9 @@
 ## Hi there 👋
 ## I'm currently learning Python and data analysis.
-## I major Political Science and International Relationship, so I want to use this knowledge for data analysis.
+## I major Political Science and International Relation, so I want to use this knowledge for data analysis.
 ## How to contact me:
-e-mail: 6279cca@gmail.com or 6279cca@naver.com
-instagram: linear._k
+**e-mail**: 6279cca@gmail.com or 6279cca@naver.com
+/ **instagram**: linear._k
 <!--
 **6279cca-beep/6279cca-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
